@@ -1,12 +1,11 @@
-### Hey 👋, I´m Facundo!
+## Hey 👋, I´m Facundo!
 
-<a href="https://www.linkedin.com/in/facundo-garcía-gallo/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:facundo.garcia.gallo@gmail.com">
-  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<br>
+
+### 💬 Contact:
+
+[![Linkedin Badge](https://img.shields.io/badge/-facu2002-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/facundo-garcía-gallo/)](https://www.linkedin.com/in/facundo-garcía-gallo/)
+[![Gmail Badge](https://img.shields.io/badge/-facundo.garcia.gallo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:facundo.garcia.gallo@gmail.com)](mailto:facundo.garcia.gallo@gmail.com)
+
 
 ### 👨🏽‍💻 About me:
 
@@ -39,8 +38,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=facu2002&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="facu2002's GitHub Stats">
 
-
-### 💬 Contact:
-
-[![Linkedin Badge](https://img.shields.io/badge/-facu2002-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/facundo-garcía-gallo/)](https://www.linkedin.com/in/facundo-garcía-gallo/)
-[![Gmail Badge](https://img.shields.io/badge/-facundo.garcia.gallo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:facundo.garcia.gallo@gmail.com)](mailto:facundo.garcia.gallo@gmail.com)
