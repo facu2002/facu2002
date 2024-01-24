@@ -1,12 +1,13 @@
 ### Hey 👋, I´m Facundo!
 
+<br><br>
 <a href="https://www.linkedin.com/in/facundo-garcía-gallo/">
   <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:facundo.garcia.gallo@gmail.com">
   <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+<br><br>
 
 ### 👨🏽‍💻 About me:
 
